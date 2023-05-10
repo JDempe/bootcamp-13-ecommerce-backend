@@ -23,9 +23,19 @@ To run the application locally, you will need to install [Node.js](https://nodej
 
 To run the application locally
 
+
+https://github.com/JDempe/bootcamp-13-ecommerce-backend/assets/123279032/e4214c62-3e09-4845-af6c-f6d6a6381e61
+
+
+
 ### User Interface
 
 <p align="center"><kbd><img src="" alt="" style="max-width: 600px;"/> </kbd></p>
+
+
+https://github.com/JDempe/bootcamp-13-ecommerce-backend/assets/123279032/e66248c1-38b6-4455-8d91-8c5c3f9106cc
+
+
 
 ## Credits
 

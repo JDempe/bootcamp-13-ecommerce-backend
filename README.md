@@ -38,8 +38,7 @@ To run the application locally, follow the following steps.
 
 Below is a example video showing this process:
 
-<p align="center"><kbd><img src="https://github.com/JDempe/bootcamp-13-ecommerce-backend/assets/123279032/e4214c62-3e09-4845-af6c-f6d6a6381e61
-" alt="Example Setup Video" style="max-width: 720px;"/> </kbd></p>
+https://github.com/JDempe/bootcamp-13-ecommerce-backend/assets/123279032/e4214c62-3e09-4845-af6c-f6d6a6381e61
 
 ### User Interface
 
@@ -65,8 +64,7 @@ The application does not have a user interface.  It is tested using Postman.  Th
 
 Here is an example of the routes in Postman:
 
-<p align="center"><kbd><img src="https://github.com/JDempe/bootcamp-13-ecommerce-backend/assets/123279032/e66248c1-38b6-4455-8d91-8c5c3f9106cc
-" alt="Example Routes" style="max-width: 600px;"/> </kbd></p>
+https://github.com/JDempe/bootcamp-13-ecommerce-backend/assets/123279032/e66248c1-38b6-4455-8d91-8c5c3f9106cc
 
 ## Credits
 

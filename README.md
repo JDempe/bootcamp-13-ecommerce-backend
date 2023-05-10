@@ -5,6 +5,7 @@ This is the thirteenth week's challenge assignment for the UCB Coding Bootcamp p
 
 ## Table of Contents
 
+- [Prerequisites](#prerequisites)
 - [Final Product](#final-product)
 - [Credits](#credits)
 - [License](#license)
